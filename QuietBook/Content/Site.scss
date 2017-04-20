@@ -1,0 +1,23 @@
+﻿
+
+@import "_mixins.scss";
+@import "_variables.scss";
+
+    .main-cont {
+        background-color: $test;
+    }
+
+    .left-cont {
+        background-color: $themeColor;
+        h2{
+            color:aqua;
+        }
+        p{
+            color: $test;
+        }
+    }
+
+    .right-head {
+        color: $themeColor;
+    }
+

@@ -1,0 +1,13 @@
+﻿.main-cont {
+  background-color: green; }
+
+.left-cont {
+  background-color: red; }
+  .left-cont h2 {
+    color: aqua; }
+  .left-cont p {
+    color: green; }
+
+.right-head {
+  color: red; }
+
